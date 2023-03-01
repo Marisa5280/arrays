@@ -13,3 +13,5 @@ console.log(ages);
 quizAnswers.unshift(true);
 console.log(quizAnswers);
 // Unshift adds an element to the beginning of an array in the 0 index postions and shifts all other positions to the right. This example now has the new boolean var as postion 0 and the array ends in position 5 instead of 4.
+
+// The index position in an array helps assign placement to the variables in an array in order to make clear changes and edits to the array, and keep the positions of the variables intentional.
